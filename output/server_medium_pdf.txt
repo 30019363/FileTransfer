@@ -1,0 +1,615 @@
+Starting the server with parameters:
+Local server port: 2025
+Connection idle time: 5000 (milli-seconds)
+Initial sequence number: 0
+Drop sequence number: -1
+Average extra ACK delay: 1 (milli-seconds)
+Packet loss probability: 0.010
+Random number generator seed: 2021
+
+Server started. Type "quit" to stop
+.....................................
+incoming connection accepted form /127.0.0.1:57834
+going through the handshake process 
+file name: medium.pdf 
+file length: 393939 Bytes 
+remote UDP port number: 53858 
+sending local UDP port number: 49326 
+sending initial seq number: 0 
+file transfer starting...
+recv: seq = 0 len = 1400 
+ack:  seq = 1 
+recv: seq = 1 len = 1400 
+ack:  seq = 2 
+recv: seq = 2 len = 1400 
+ack:  seq = 3 
+recv: seq = 3 len = 1400 
+ack:  seq = 4 
+recv: seq = 4 len = 1400 
+ack:  seq = 5 
+recv: seq = 5 len = 1400 
+ack:  seq = 6 
+recv: seq = 6 len = 1400 
+ack:  seq = 7 
+recv: seq = 7 len = 1400 
+ack:  seq = 8 
+recv: seq = 8 len = 1400 
+ack:  seq = 9 
+recv: seq = 9 len = 1400 
+ack:  seq = 10 
+recv: seq = 10 len = 1400 
+ack:  seq = 11 
+recv: seq = 11 len = 1400 
+ack:  seq = 12 
+recv: seq = 12 len = 1400 
+ack:  seq = 13 
+recv: seq = 13 len = 1400 
+ack:  seq = 14 
+recv: seq = 14 len = 1400 
+ack:  seq = 15 
+recv: seq = 15 len = 1400 
+ack:  seq = 16 
+recv: seq = 16 len = 1400 
+ack:  seq = 17 
+recv: seq = 17 len = 1400 
+ack:  seq = 18 
+recv: seq = 18 len = 1400 
+ack:  seq = 19 
+recv: seq = 19 len = 1400 
+ack:  seq = 20 
+recv: seq = 20 len = 1400 
+ack:  seq = 21 
+recv: seq = 21 len = 1400 
+ack:  seq = 22 
+drop: seq = 22 
+recv: seq = 23 ignore 
+ack:  seq = 22 
+recv: seq = 24 ignore 
+ack:  seq = 22 
+recv: seq = 25 ignore 
+ack:  seq = 22 
+recv: seq = 26 ignore 
+ack:  seq = 22 
+recv: seq = 27 ignore 
+ack:  seq = 22 
+recv: seq = 28 ignore 
+ack:  seq = 22 
+recv: seq = 29 ignore 
+ack:  seq = 22 
+recv: seq = 30 ignore 
+ack:  seq = 22 
+recv: seq = 31 ignore 
+ack:  seq = 22 
+recv: seq = 22 len = 1400 
+ack:  seq = 23 
+recv: seq = 23 len = 1400 
+ack:  seq = 24 
+recv: seq = 24 len = 1400 
+ack:  seq = 25 
+recv: seq = 25 len = 1400 
+ack:  seq = 26 
+recv: seq = 32 ignore 
+ack:  seq = 26 
+recv: seq = 26 len = 1400 
+ack:  seq = 27 
+recv: seq = 33 ignore 
+ack:  seq = 27 
+recv: seq = 27 len = 1400 
+ack:  seq = 28 
+recv: seq = 28 len = 1400 
+ack:  seq = 29 
+recv: seq = 34 ignore 
+ack:  seq = 29 
+recv: seq = 29 len = 1400 
+ack:  seq = 30 
+recv: seq = 30 len = 1400 
+ack:  seq = 31 
+recv: seq = 31 len = 1400 
+ack:  seq = 32 
+recv: seq = 32 len = 1400 
+ack:  seq = 33 
+recv: seq = 33 len = 1400 
+ack:  seq = 34 
+recv: seq = 34 len = 1400 
+ack:  seq = 35 
+recv: seq = 35 len = 1400 
+ack:  seq = 36 
+recv: seq = 36 len = 1400 
+ack:  seq = 37 
+recv: seq = 37 len = 1400 
+ack:  seq = 38 
+recv: seq = 38 len = 1400 
+ack:  seq = 39 
+recv: seq = 39 len = 1400 
+ack:  seq = 40 
+recv: seq = 40 len = 1400 
+ack:  seq = 41 
+recv: seq = 41 len = 1400 
+ack:  seq = 42 
+recv: seq = 42 len = 1400 
+ack:  seq = 43 
+recv: seq = 43 len = 1400 
+ack:  seq = 44 
+recv: seq = 44 len = 1400 
+ack:  seq = 45 
+recv: seq = 45 len = 1400 
+ack:  seq = 46 
+recv: seq = 46 len = 1400 
+ack:  seq = 47 
+recv: seq = 47 len = 1400 
+ack:  seq = 48 
+recv: seq = 48 len = 1400 
+ack:  seq = 49 
+recv: seq = 49 len = 1400 
+ack:  seq = 50 
+recv: seq = 50 len = 1400 
+ack:  seq = 51 
+recv: seq = 51 len = 1400 
+ack:  seq = 52 
+recv: seq = 52 len = 1400 
+ack:  seq = 53 
+recv: seq = 53 len = 1400 
+ack:  seq = 54 
+recv: seq = 54 len = 1400 
+ack:  seq = 55 
+recv: seq = 55 len = 1400 
+ack:  seq = 56 
+recv: seq = 56 len = 1400 
+ack:  seq = 57 
+recv: seq = 57 len = 1400 
+ack:  seq = 58 
+recv: seq = 58 len = 1400 
+ack:  seq = 59 
+recv: seq = 59 len = 1400 
+ack:  seq = 60 
+recv: seq = 60 len = 1400 
+ack:  seq = 61 
+recv: seq = 61 len = 1400 
+ack:  seq = 62 
+recv: seq = 62 len = 1400 
+ack:  seq = 63 
+recv: seq = 63 len = 1400 
+ack:  seq = 64 
+recv: seq = 64 len = 1400 
+ack:  seq = 65 
+recv: seq = 65 len = 1400 
+ack:  seq = 66 
+recv: seq = 66 len = 1400 
+ack:  seq = 67 
+recv: seq = 67 len = 1400 
+ack:  seq = 68 
+recv: seq = 68 len = 1400 
+ack:  seq = 69 
+recv: seq = 69 len = 1400 
+ack:  seq = 70 
+recv: seq = 70 len = 1400 
+ack:  seq = 71 
+recv: seq = 71 len = 1400 
+ack:  seq = 72 
+recv: seq = 72 len = 1400 
+ack:  seq = 73 
+recv: seq = 73 len = 1400 
+ack:  seq = 74 
+recv: seq = 74 len = 1400 
+ack:  seq = 75 
+recv: seq = 75 len = 1400 
+ack:  seq = 76 
+recv: seq = 76 len = 1400 
+ack:  seq = 77 
+recv: seq = 77 len = 1400 
+ack:  seq = 78 
+recv: seq = 78 len = 1400 
+ack:  seq = 79 
+recv: seq = 79 len = 1400 
+ack:  seq = 80 
+recv: seq = 80 len = 1400 
+ack:  seq = 81 
+recv: seq = 81 len = 1400 
+ack:  seq = 82 
+recv: seq = 82 len = 1400 
+ack:  seq = 83 
+recv: seq = 83 len = 1400 
+ack:  seq = 84 
+recv: seq = 84 len = 1400 
+ack:  seq = 85 
+recv: seq = 85 len = 1400 
+ack:  seq = 86 
+recv: seq = 86 len = 1400 
+ack:  seq = 87 
+recv: seq = 87 len = 1400 
+ack:  seq = 88 
+recv: seq = 88 len = 1400 
+ack:  seq = 89 
+recv: seq = 89 len = 1400 
+ack:  seq = 90 
+recv: seq = 90 len = 1400 
+ack:  seq = 91 
+recv: seq = 91 len = 1400 
+ack:  seq = 92 
+recv: seq = 92 len = 1400 
+ack:  seq = 93 
+recv: seq = 93 len = 1400 
+ack:  seq = 94 
+recv: seq = 94 len = 1400 
+ack:  seq = 95 
+recv: seq = 95 len = 1400 
+ack:  seq = 96 
+recv: seq = 96 len = 1400 
+ack:  seq = 97 
+recv: seq = 97 len = 1400 
+ack:  seq = 98 
+recv: seq = 98 len = 1400 
+ack:  seq = 99 
+recv: seq = 99 len = 1400 
+ack:  seq = 100 
+recv: seq = 100 len = 1400 
+ack:  seq = 101 
+recv: seq = 101 len = 1400 
+ack:  seq = 102 
+recv: seq = 102 len = 1400 
+ack:  seq = 103 
+recv: seq = 103 len = 1400 
+ack:  seq = 104 
+recv: seq = 104 len = 1400 
+ack:  seq = 105 
+recv: seq = 105 len = 1400 
+ack:  seq = 106 
+recv: seq = 106 len = 1400 
+ack:  seq = 107 
+recv: seq = 107 len = 1400 
+ack:  seq = 108 
+recv: seq = 108 len = 1400 
+ack:  seq = 109 
+recv: seq = 109 len = 1400 
+ack:  seq = 110 
+recv: seq = 110 len = 1400 
+ack:  seq = 111 
+recv: seq = 111 len = 1400 
+ack:  seq = 112 
+recv: seq = 112 len = 1400 
+ack:  seq = 113 
+recv: seq = 113 len = 1400 
+ack:  seq = 114 
+recv: seq = 114 len = 1400 
+ack:  seq = 115 
+recv: seq = 115 len = 1400 
+ack:  seq = 116 
+recv: seq = 116 len = 1400 
+ack:  seq = 117 
+recv: seq = 117 len = 1400 
+ack:  seq = 118 
+recv: seq = 118 len = 1400 
+ack:  seq = 119 
+recv: seq = 119 len = 1400 
+ack:  seq = 120 
+recv: seq = 120 len = 1400 
+ack:  seq = 121 
+recv: seq = 121 len = 1400 
+ack:  seq = 122 
+recv: seq = 122 len = 1400 
+ack:  seq = 123 
+recv: seq = 123 len = 1400 
+ack:  seq = 124 
+recv: seq = 124 len = 1400 
+ack:  seq = 125 
+recv: seq = 125 len = 1400 
+ack:  seq = 126 
+recv: seq = 126 len = 1400 
+ack:  seq = 127 
+recv: seq = 127 len = 1400 
+ack:  seq = 128 
+recv: seq = 128 len = 1400 
+ack:  seq = 129 
+recv: seq = 129 len = 1400 
+ack:  seq = 130 
+recv: seq = 130 len = 1400 
+ack:  seq = 131 
+recv: seq = 131 len = 1400 
+ack:  seq = 132 
+recv: seq = 132 len = 1400 
+ack:  seq = 133 
+recv: seq = 133 len = 1400 
+ack:  seq = 134 
+recv: seq = 134 len = 1400 
+ack:  seq = 135 
+recv: seq = 135 len = 1400 
+ack:  seq = 136 
+recv: seq = 136 len = 1400 
+ack:  seq = 137 
+recv: seq = 137 len = 1400 
+ack:  seq = 138 
+recv: seq = 138 len = 1400 
+ack:  seq = 139 
+recv: seq = 139 len = 1400 
+ack:  seq = 140 
+recv: seq = 140 len = 1400 
+ack:  seq = 141 
+recv: seq = 141 len = 1400 
+ack:  seq = 142 
+recv: seq = 142 len = 1400 
+ack:  seq = 143 
+recv: seq = 143 len = 1400 
+ack:  seq = 144 
+recv: seq = 144 len = 1400 
+ack:  seq = 145 
+recv: seq = 145 len = 1400 
+ack:  seq = 146 
+recv: seq = 146 len = 1400 
+ack:  seq = 147 
+recv: seq = 147 len = 1400 
+ack:  seq = 148 
+recv: seq = 148 len = 1400 
+ack:  seq = 149 
+recv: seq = 149 len = 1400 
+ack:  seq = 150 
+recv: seq = 150 len = 1400 
+ack:  seq = 151 
+recv: seq = 151 len = 1400 
+ack:  seq = 152 
+recv: seq = 152 len = 1400 
+ack:  seq = 153 
+recv: seq = 153 len = 1400 
+ack:  seq = 154 
+recv: seq = 154 len = 1400 
+ack:  seq = 155 
+recv: seq = 155 len = 1400 
+ack:  seq = 156 
+recv: seq = 156 len = 1400 
+ack:  seq = 157 
+recv: seq = 157 len = 1400 
+ack:  seq = 158 
+recv: seq = 158 len = 1400 
+ack:  seq = 159 
+recv: seq = 159 len = 1400 
+ack:  seq = 160 
+recv: seq = 160 len = 1400 
+ack:  seq = 161 
+recv: seq = 161 len = 1400 
+ack:  seq = 162 
+recv: seq = 162 len = 1400 
+ack:  seq = 163 
+recv: seq = 163 len = 1400 
+ack:  seq = 164 
+recv: seq = 164 len = 1400 
+ack:  seq = 165 
+recv: seq = 165 len = 1400 
+ack:  seq = 166 
+recv: seq = 166 len = 1400 
+ack:  seq = 167 
+recv: seq = 167 len = 1400 
+ack:  seq = 168 
+recv: seq = 168 len = 1400 
+ack:  seq = 169 
+recv: seq = 169 len = 1400 
+ack:  seq = 170 
+recv: seq = 170 len = 1400 
+ack:  seq = 171 
+recv: seq = 171 len = 1400 
+ack:  seq = 172 
+recv: seq = 172 len = 1400 
+ack:  seq = 173 
+recv: seq = 173 len = 1400 
+ack:  seq = 174 
+recv: seq = 174 len = 1400 
+ack:  seq = 175 
+recv: seq = 175 len = 1400 
+ack:  seq = 176 
+recv: seq = 176 len = 1400 
+ack:  seq = 177 
+recv: seq = 177 len = 1400 
+ack:  seq = 178 
+recv: seq = 178 len = 1400 
+ack:  seq = 179 
+recv: seq = 179 len = 1400 
+ack:  seq = 180 
+recv: seq = 180 len = 1400 
+ack:  seq = 181 
+recv: seq = 181 len = 1400 
+ack:  seq = 182 
+recv: seq = 182 len = 1400 
+ack:  seq = 183 
+recv: seq = 183 len = 1400 
+ack:  seq = 184 
+recv: seq = 184 len = 1400 
+ack:  seq = 185 
+recv: seq = 185 len = 1400 
+ack:  seq = 186 
+recv: seq = 186 len = 1400 
+ack:  seq = 187 
+recv: seq = 187 len = 1400 
+ack:  seq = 188 
+recv: seq = 188 len = 1400 
+ack:  seq = 189 
+recv: seq = 189 len = 1400 
+ack:  seq = 190 
+recv: seq = 190 len = 1400 
+ack:  seq = 191 
+recv: seq = 191 len = 1400 
+ack:  seq = 192 
+recv: seq = 192 len = 1400 
+ack:  seq = 193 
+recv: seq = 193 len = 1400 
+ack:  seq = 194 
+recv: seq = 194 len = 1400 
+ack:  seq = 195 
+recv: seq = 195 len = 1400 
+ack:  seq = 196 
+recv: seq = 196 len = 1400 
+ack:  seq = 197 
+recv: seq = 197 len = 1400 
+ack:  seq = 198 
+recv: seq = 198 len = 1400 
+ack:  seq = 199 
+recv: seq = 199 len = 1400 
+ack:  seq = 200 
+recv: seq = 200 len = 1400 
+ack:  seq = 201 
+recv: seq = 201 len = 1400 
+ack:  seq = 202 
+recv: seq = 202 len = 1400 
+ack:  seq = 203 
+recv: seq = 203 len = 1400 
+ack:  seq = 204 
+recv: seq = 204 len = 1400 
+ack:  seq = 205 
+recv: seq = 205 len = 1400 
+ack:  seq = 206 
+recv: seq = 206 len = 1400 
+ack:  seq = 207 
+recv: seq = 207 len = 1400 
+ack:  seq = 208 
+recv: seq = 208 len = 1400 
+ack:  seq = 209 
+recv: seq = 209 len = 1400 
+ack:  seq = 210 
+recv: seq = 210 len = 1400 
+ack:  seq = 211 
+recv: seq = 211 len = 1400 
+ack:  seq = 212 
+recv: seq = 212 len = 1400 
+ack:  seq = 213 
+recv: seq = 213 len = 1400 
+ack:  seq = 214 
+recv: seq = 214 len = 1400 
+ack:  seq = 215 
+recv: seq = 215 len = 1400 
+ack:  seq = 216 
+recv: seq = 216 len = 1400 
+ack:  seq = 217 
+recv: seq = 217 len = 1400 
+ack:  seq = 218 
+recv: seq = 218 len = 1400 
+ack:  seq = 219 
+recv: seq = 219 len = 1400 
+ack:  seq = 220 
+recv: seq = 220 len = 1400 
+ack:  seq = 221 
+recv: seq = 221 len = 1400 
+ack:  seq = 222 
+recv: seq = 222 len = 1400 
+ack:  seq = 223 
+recv: seq = 223 len = 1400 
+ack:  seq = 224 
+recv: seq = 224 len = 1400 
+ack:  seq = 225 
+recv: seq = 225 len = 1400 
+ack:  seq = 226 
+recv: seq = 226 len = 1400 
+ack:  seq = 227 
+recv: seq = 227 len = 1400 
+ack:  seq = 228 
+recv: seq = 228 len = 1400 
+ack:  seq = 229 
+recv: seq = 229 len = 1400 
+ack:  seq = 230 
+recv: seq = 230 len = 1400 
+ack:  seq = 231 
+recv: seq = 231 len = 1400 
+ack:  seq = 232 
+recv: seq = 232 len = 1400 
+ack:  seq = 233 
+recv: seq = 233 len = 1400 
+ack:  seq = 234 
+recv: seq = 234 len = 1400 
+ack:  seq = 235 
+recv: seq = 235 len = 1400 
+ack:  seq = 236 
+recv: seq = 236 len = 1400 
+ack:  seq = 237 
+recv: seq = 237 len = 1400 
+ack:  seq = 238 
+recv: seq = 238 len = 1400 
+ack:  seq = 239 
+recv: seq = 239 len = 1400 
+ack:  seq = 240 
+recv: seq = 240 len = 1400 
+ack:  seq = 241 
+recv: seq = 241 len = 1400 
+ack:  seq = 242 
+recv: seq = 242 len = 1400 
+ack:  seq = 243 
+recv: seq = 243 len = 1400 
+ack:  seq = 244 
+recv: seq = 244 len = 1400 
+ack:  seq = 245 
+recv: seq = 245 len = 1400 
+ack:  seq = 246 
+recv: seq = 246 len = 1400 
+ack:  seq = 247 
+recv: seq = 247 len = 1400 
+ack:  seq = 248 
+recv: seq = 248 len = 1400 
+ack:  seq = 249 
+recv: seq = 249 len = 1400 
+ack:  seq = 250 
+recv: seq = 250 len = 1400 
+ack:  seq = 251 
+recv: seq = 251 len = 1400 
+ack:  seq = 252 
+recv: seq = 252 len = 1400 
+ack:  seq = 253 
+recv: seq = 253 len = 1400 
+ack:  seq = 254 
+recv: seq = 254 len = 1400 
+ack:  seq = 255 
+recv: seq = 255 len = 1400 
+ack:  seq = 256 
+recv: seq = 256 len = 1400 
+ack:  seq = 257 
+recv: seq = 257 len = 1400 
+ack:  seq = 258 
+recv: seq = 258 len = 1400 
+ack:  seq = 259 
+recv: seq = 259 len = 1400 
+ack:  seq = 260 
+recv: seq = 260 len = 1400 
+ack:  seq = 261 
+recv: seq = 261 len = 1400 
+ack:  seq = 262 
+recv: seq = 262 len = 1400 
+ack:  seq = 263 
+recv: seq = 263 len = 1400 
+ack:  seq = 264 
+recv: seq = 264 len = 1400 
+ack:  seq = 265 
+recv: seq = 265 len = 1400 
+ack:  seq = 266 
+recv: seq = 266 len = 1400 
+ack:  seq = 267 
+recv: seq = 267 len = 1400 
+ack:  seq = 268 
+recv: seq = 268 len = 1400 
+ack:  seq = 269 
+recv: seq = 269 len = 1400 
+ack:  seq = 270 
+recv: seq = 270 len = 1400 
+ack:  seq = 271 
+recv: seq = 271 len = 1400 
+ack:  seq = 272 
+recv: seq = 272 len = 1400 
+ack:  seq = 273 
+recv: seq = 273 len = 1400 
+ack:  seq = 274 
+recv: seq = 274 len = 1400 
+ack:  seq = 275 
+recv: seq = 275 len = 1400 
+ack:  seq = 276 
+recv: seq = 276 len = 1400 
+ack:  seq = 277 
+recv: seq = 277 len = 1400 
+ack:  seq = 278 
+recv: seq = 278 len = 1400 
+ack:  seq = 279 
+recv: seq = 279 len = 1400 
+ack:  seq = 280 
+recv: seq = 280 len = 1400 
+ack:  seq = 281 
+recv: seq = 281 len = 539 
+ack:  seq = 282 
+file transfer completed in 452 (milli-seconds)
+closing TCP/UDP sockets 
+TCP/UDP sockets closed 
+
+server is shutting down...
+shutting down executor 
+server stopped
